@@ -1,0 +1,16 @@
+                                            Overview of HR Data Analysis Dashboard
+
+This interactive dashboard provides insights into HR data, enabling organizations
+to track key metrics, identify trends and make data-driven decisions.
+
+Key Features
+
+1. Country Slicer: 
+           Filter data by country to analyze HR trends and metrics specific to each region.
+2. Job Title Slicer:
+           Filter data by job title to analyze HR trends and metrics specific to each role.
+3. Trend Line: 
+          Visualize trends in HR data over time, enabling identification of patterns and seasonality.
+4. Salary Charts: 
+          Analyze salary data using various chart types, such as:
+                . Average Salary by Job Title: Compare average salaries across different job titles.
